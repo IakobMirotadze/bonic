@@ -27,7 +27,7 @@ const Topbar: React.FC = () => {
   }, []);
 
   return (
-    <StyledTopbar>
+    <StyledTopbar style={{display: 'none'}}>
       <Container
         display="flex"
         justifyContent="space-between"
@@ -36,7 +36,7 @@ const Topbar: React.FC = () => {
       >
         <FlexBox className="topbar-left">
           <div className="logo">
-            <img src="/assets/images/logo.svg" alt="logo" />
+            <img src="/assets/images/logo.png" alt="logo" />
           </div>
           <FlexBox alignItems="center">
             <Icon size="14px">phone-call</Icon>
