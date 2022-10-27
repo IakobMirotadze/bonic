@@ -13,7 +13,7 @@ type Props = {
 
 const GroceryLayout: React.FC<Props> = ({
   children,
-  title = "React Next.js Ecommerce Template",
+  title = "EStores Premium",
 }) => (
   <StyledAppLayout>
     <Head>

@@ -34,7 +34,7 @@ const App = ({ Component, pageProps }: any) => {
         />
         {/* thumbnail And title for social media */}
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Ecommerce" />
+        <meta property="og:title" content="EStores Premium" />
         <meta
           property="og:description"
           content="Minimal, clean and Fast Next js ecommerce template. Build Super store, Grocery delivery app, Multivendor store and niche market"
