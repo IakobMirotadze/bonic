@@ -181,10 +181,6 @@ const navbarNavigations = [
     title: "Track My Orders",
     url: "/orders",
   },
-  {
-    title: "Back to Demos",
-    url: "/landing",
-  },
   // {
   //   title: "Documentation",
   //   url:
