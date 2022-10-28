@@ -3,7 +3,7 @@
     "baseUrl": "src",
     "checkJs": false,
     "allowJs": true,
-    "alwaysStrict": true,
+    "alwaysStrict": false,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
