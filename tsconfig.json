@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": "src",
+    "checkJs": false,
     "allowJs": true,
     "alwaysStrict": true,
     "esModuleInterop": true,
